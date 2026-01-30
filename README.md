@@ -1,2 +1,96 @@
 # Business-360-Sales-Revenue-Analytics
 End-to-end Power BI sales, revenue &amp; supply chain analytics dashboard
+🔹 Project Overview
+
+Business Insight 360 is an end-to-end Power BI analytics solution designed to provide a complete view of sales, revenue, profitability, and supply chain performance by integrating offline and e-commerce sales data.
+
+The dashboard helps stakeholders monitor financial performance, customer behavior, product profitability, and forecast accuracy across regions and time periods.
+
+🎯 Business Objectives
+
+Monitor Net Sales, Gross Margin, and Net Profit
+
+Compare Target vs Actual performance
+
+Identify top & bottom performing products and customers
+
+Analyze regional contribution and growth trends
+
+Track forecast accuracy and inventory risk
+
+🛠 Tech Stack
+
+Power BI – Dashboarding & data modeling
+
+MySQL – Data source
+
+Excel – Data validation & support
+
+Power Query – Data cleaning & transformation
+
+📈 Key Dashboards & Insights
+🏠 Home Page
+
+Central navigation hub
+
+Quick access to Finance, Sales, Marketing & Supply Chain views
+
+💰 Finance View
+
+Net Sales, Gross Margin %, Net Profit %
+
+Detailed Profit & Loss Statement
+
+Month-wise Net Sales trend analysis
+
+📦 Sales View
+
+Customer-wise and Product-wise performance
+
+Net Sales, Gross Margin, and GM%
+
+Growth & profitability matrix by region
+
+📊 Marketing View
+
+Product profitability analysis
+
+Market & regional performance
+
+Net Profit contribution by segment
+
+🚚 Supply Chain View
+
+Forecast Accuracy %
+
+Net Error tracking
+
+Inventory risk (Out-of-Stock / Excess Inventory)
+
+Accuracy vs Error trend analysis
+
+⚙️ Data Modeling & Automation
+
+Automated data cleaning using Power Query
+
+Created calculated measures for:
+
+Net Sales
+
+Gross Margin
+
+Net Profit %
+
+Forecast Accuracy
+
+Optimized data model for performance and scalability
+
+📌 Business Impact
+
+Reduced manual reporting effort
+
+Improved executive decision-making
+
+Enabled data-driven revenue & profitability tracking
+
+Identified forecasting gaps and inventory risks
