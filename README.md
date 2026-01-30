@@ -29,7 +29,26 @@ Excel – Data validation & support
 
 Power Query – Data cleaning & transformation
 
+## 📷 Dashboard Preview
+
+### 🏠 Home Dashboard
+![Home Dashboard](Screenshots/home_page.png)
+
+### 💰 Finance Dashboard
+![Finance Dashboard](Screenshots/finance.png)
+
+### 📦 Sales Dashboard
+![Sales Dashboard](Screenshots/sales.png)
+
+### 📊 Marketing Dashboard
+![Marketing Dashboard](Screenshots/marketing.png)
+
+### 🚚 Supply Chain Dashboard
+![Supply Chain Dashboard](Screenshots/supply_chain.png)
+
+
 📈 Key Dashboards & Insights
+
 🏠 Home Page
 
 Central navigation hub
