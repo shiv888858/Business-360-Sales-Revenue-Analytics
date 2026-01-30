@@ -1,10 +1,11 @@
 # Business-360-Sales-Revenue-Analytics
 End-to-end Power BI sales, revenue &amp; supply chain analytics dashboard
+
 🔹 Project Overview
 
-Business Insight 360 is an end-to-end Power BI analytics solution designed to provide a complete view of sales, revenue, profitability, and supply chain performance by integrating offline and e-commerce sales data.
+Business Insight 360 is an end-to-end Power BI analytics solution that aims to give a complete picture of sales, revenue, profitability, and supply chain performance by integrating offline and e-commerce sales data.
 
-The dashboard helps stakeholders monitor financial performance, customer behavior, product profitability, and forecast accuracy across regions and time periods.
+The dashboard assists users in tracking financial performance, customer behavior, product profitability, and forecast accuracy for regions and time periods.
 
 🎯 Business Objectives
 
