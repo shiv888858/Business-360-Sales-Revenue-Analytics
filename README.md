@@ -114,3 +114,11 @@ Improved executive decision-making
 Enabled data-driven revenue & profitability tracking
 
 Identified forecasting gaps and inventory risks
+
+ 📂 Power BI File
+
+Due to file size limitations, the Power BI (.pbix) file is hosted externally.
+
+🔗 Power BI PBIX File:
+
+https://drive.google.com/file/d/15R7wWOVQmZYQgiJaMf4WCRv1FjwXQjQL/view?usp=sharing
